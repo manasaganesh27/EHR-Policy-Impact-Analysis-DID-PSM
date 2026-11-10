@@ -1,0 +1,409 @@
+region,region_code,year,ehr_adoption,adoption_missing
+Alaska,AK,2008,0.14,0
+Alaska,AK,2009,0.23,0
+Alaska,AK,2010,0.15,0
+Alaska,AK,2011,0.07,0
+Alaska,AK,2012,0.33,0
+Alaska,AK,2013,0.55,0
+Alaska,AK,2014,0.76,0
+Alaska,AK,2015,0.893633791,0
+Alabama,AL,2008,0.12,0
+Alabama,AL,2009,0.1,0
+Alabama,AL,2010,0.11,0
+Alabama,AL,2011,0.25,0
+Alabama,AL,2012,0.46,0
+Alabama,AL,2013,0.58,0
+Alabama,AL,2014,0.81,0
+Alabama,AL,2015,0.833054608,0
+Arkansas,AR,2008,0.14,0
+Arkansas,AR,2009,0.13,0
+Arkansas,AR,2010,0.18,0
+Arkansas,AR,2011,0.34,0
+Arkansas,AR,2012,0.5,0
+Arkansas,AR,2013,0.81,0
+Arkansas,AR,2014,0.93,0
+Arkansas,AR,2015,0.93306902,0
+Arizona,AZ,2008,0.14,0
+Arizona,AZ,2009,0.2,0
+Arizona,AZ,2010,0.32,0
+Arizona,AZ,2011,0.23,0
+Arizona,AZ,2012,0.52,0
+Arizona,AZ,2013,0.77,0
+Arizona,AZ,2014,0.93,0
+Arizona,AZ,2015,0.779912655,0
+California,CA,2008,0.12,0
+California,CA,2009,0.21,0
+California,CA,2010,0.21,0
+California,CA,2011,0.23,0
+California,CA,2012,0.57,0
+California,CA,2013,0.62,0
+California,CA,2014,0.77,0
+California,CA,2015,0.896911417,0
+Colorado,CO,2008,0.13,0
+Colorado,CO,2009,0.31,0
+Colorado,CO,2010,0.3,0
+Colorado,CO,2011,0.33,0
+Colorado,CO,2012,0.73,0
+Colorado,CO,2013,0.8,0
+Colorado,CO,2014,0.88,0
+Colorado,CO,2015,0.907905277,0
+Connecticut,CT,2008,0.34,0
+Connecticut,CT,2009,0.32,0
+Connecticut,CT,2010,0.3,0
+Connecticut,CT,2011,0.44,0
+Connecticut,CT,2012,0.66,0
+Connecticut,CT,2013,0.76,0
+Connecticut,CT,2014,0.86,0
+Connecticut,CT,2015,0.879584076,0
+District Of Columbia,DC,2008,0.24,0
+District Of Columbia,DC,2009,0.32,0
+District Of Columbia,DC,2010,0.11,0
+District Of Columbia,DC,2011,0.37,0
+District Of Columbia,DC,2012,0.29,0
+District Of Columbia,DC,2013,0.68,0
+District Of Columbia,DC,2014,0.67,0
+District Of Columbia,DC,2015,1.0,0
+Delaware,DE,2008,0.23,0
+Delaware,DE,2009,0.23,0
+Delaware,DE,2010,0.4,0
+Delaware,DE,2011,0.39,0
+Delaware,DE,2012,0.59,0
+Delaware,DE,2013,0.5,0
+Delaware,DE,2014,1.0,0
+Delaware,DE,2015,0.666666747,0
+Florida,FL,2008,0.16,0
+Florida,FL,2009,0.18,0
+Florida,FL,2010,0.22,0
+Florida,FL,2011,0.6,0
+Florida,FL,2012,0.55,0
+Florida,FL,2013,0.76,0
+Florida,FL,2014,0.93,0
+Florida,FL,2015,0.972388409,0
+Georgia,GA,2008,0.12,0
+Georgia,GA,2009,0.16,0
+Georgia,GA,2010,0.14,0
+Georgia,GA,2011,0.3,0
+Georgia,GA,2012,0.6,0
+Georgia,GA,2013,0.68,0
+Georgia,GA,2014,0.86,0
+Georgia,GA,2015,0.877812672,0
+Hawaii,HI,2008,0.08,0
+Hawaii,HI,2009,0.18,0
+Hawaii,HI,2010,0.3,0
+Hawaii,HI,2011,0.67,0
+Hawaii,HI,2012,0.6,0
+Hawaii,HI,2013,0.91,0
+Hawaii,HI,2014,0.55,0
+Hawaii,HI,2015,0.705882679,0
+Iowa,IA,2008,0.04,0
+Iowa,IA,2009,0.15,0
+Iowa,IA,2010,0.27,0
+Iowa,IA,2011,0.38,0
+Iowa,IA,2012,0.6,0
+Iowa,IA,2013,0.71,0
+Iowa,IA,2014,0.8,0
+Iowa,IA,2015,0.858145648,0
+Idaho,ID,2008,0.07,0
+Idaho,ID,2009,0.15,0
+Idaho,ID,2010,0.19,0
+Idaho,ID,2011,0.19,0
+Idaho,ID,2012,0.58,0
+Idaho,ID,2013,0.63,0
+Idaho,ID,2014,0.74,0
+Idaho,ID,2015,0.797882086,0
+Illinois,IL,2008,0.13,0
+Illinois,IL,2009,0.19,0
+Illinois,IL,2010,0.26,0
+Illinois,IL,2011,0.44,0
+Illinois,IL,2012,0.6,0
+Illinois,IL,2013,0.8,0
+Illinois,IL,2014,0.9,0
+Illinois,IL,2015,0.904340151,0
+Indiana,IN,2008,0.11,0
+Indiana,IN,2009,0.19,0
+Indiana,IN,2010,0.1,0
+Indiana,IN,2011,0.33,0
+Indiana,IN,2012,0.68,0
+Indiana,IN,2013,0.8,0
+Indiana,IN,2014,0.9,0
+Indiana,IN,2015,0.932617183,0
+Kansas,KS,2008,0.01,0
+Kansas,KS,2009,0.07,0
+Kansas,KS,2010,0.16,0
+Kansas,KS,2011,0.22,0
+Kansas,KS,2012,0.33,0
+Kansas,KS,2013,0.46,0
+Kansas,KS,2014,0.68,0
+Kansas,KS,2015,0.759105393,0
+Kentucky,KY,2008,0.11,0
+Kentucky,KY,2009,0.07,0
+Kentucky,KY,2010,0.18,0
+Kentucky,KY,2011,0.29,0
+Kentucky,KY,2012,0.43,0
+Kentucky,KY,2013,0.64,0
+Kentucky,KY,2014,0.74,0
+Kentucky,KY,2015,0.866658382,0
+Louisiana,LA,2008,0.08,0
+Louisiana,LA,2009,0.16,0
+Louisiana,LA,2010,0.17,0
+Louisiana,LA,2011,0.27,0
+Louisiana,LA,2012,0.44,0
+Louisiana,LA,2013,0.59,0
+Louisiana,LA,2014,0.84,0
+Louisiana,LA,2015,0.780437727,0
+Massachusetts,MA,2008,0.24,0
+Massachusetts,MA,2009,0.36,0
+Massachusetts,MA,2010,0.32,0
+Massachusetts,MA,2011,0.55,0
+Massachusetts,MA,2012,0.76,0
+Massachusetts,MA,2013,0.82,0
+Massachusetts,MA,2014,0.86,0
+Massachusetts,MA,2015,0.929521615,0
+Maryland,MD,2008,0.21,0
+Maryland,MD,2009,0.17,0
+Maryland,MD,2010,0.28,0
+Maryland,MD,2011,0.38,0
+Maryland,MD,2012,0.63,0
+Maryland,MD,2013,0.9,0
+Maryland,MD,2014,0.97,0
+Maryland,MD,2015,1.0,0
+Maine,ME,2008,0.1,0
+Maine,ME,2009,0.18,0
+Maine,ME,2010,0.19,0
+Maine,ME,2011,0.46,0
+Maine,ME,2012,0.66,0
+Maine,ME,2013,0.72,0
+Maine,ME,2014,0.9,0
+Maine,ME,2015,0.915593633,0
+Michigan,MI,2008,0.2,0
+Michigan,MI,2009,0.13,0
+Michigan,MI,2010,0.21,0
+Michigan,MI,2011,0.37,0
+Michigan,MI,2012,0.74,0
+Michigan,MI,2013,0.73,0
+Michigan,MI,2014,0.84,0
+Michigan,MI,2015,0.883101524,0
+Minnesota,MN,2008,0.18,0
+Minnesota,MN,2009,0.21,0
+Minnesota,MN,2010,0.23,0
+Minnesota,MN,2011,0.47,0
+Minnesota,MN,2012,0.64,0
+Minnesota,MN,2013,0.76,0
+Minnesota,MN,2014,0.87,0
+Minnesota,MN,2015,0.886967095,0
+Missouri,MO,2008,0.14,0
+Missouri,MO,2009,0.15,0
+Missouri,MO,2010,0.21,0
+Missouri,MO,2011,0.45,0
+Missouri,MO,2012,0.55,0
+Missouri,MO,2013,0.63,0
+Missouri,MO,2014,0.79,0
+Missouri,MO,2015,0.926528189,0
+Mississippi,MS,2008,0.1,0
+Mississippi,MS,2009,0.09,0
+Mississippi,MS,2010,0.08,0
+Mississippi,MS,2011,0.27,0
+Mississippi,MS,2012,0.59,0
+Mississippi,MS,2013,0.77,0
+Mississippi,MS,2014,0.8,0
+Mississippi,MS,2015,0.923107578,0
+Montana,MT,2008,0.06,0
+Montana,MT,2009,0.1,0
+Montana,MT,2010,0.08,0
+Montana,MT,2011,0.15,0
+Montana,MT,2012,0.4,0
+Montana,MT,2013,0.7,0
+Montana,MT,2014,0.71,0
+Montana,MT,2015,0.832303748,0
+North Carolina,NC,2008,0.16,0
+North Carolina,NC,2009,0.21,0
+North Carolina,NC,2010,0.24,0
+North Carolina,NC,2011,0.32,0
+North Carolina,NC,2012,0.54,0
+North Carolina,NC,2013,0.81,0
+North Carolina,NC,2014,0.91,0
+North Carolina,NC,2015,0.90329003,0
+North Dakota,ND,2008,0.04,0
+North Dakota,ND,2009,0.1,0
+North Dakota,ND,2010,0.1,0
+North Dakota,ND,2011,0.11,0
+North Dakota,ND,2012,0.55,0
+North Dakota,ND,2013,0.79,0
+North Dakota,ND,2014,0.88,0
+North Dakota,ND,2015,0.894715416,0
+Nebraska,NE,2008,0.08,0
+Nebraska,NE,2009,0.11,0
+Nebraska,NE,2010,0.1,0
+Nebraska,NE,2011,0.23,0
+Nebraska,NE,2012,0.5,0
+Nebraska,NE,2013,0.5,0
+Nebraska,NE,2014,0.71,0
+Nebraska,NE,2015,0.762517123,0
+New Hampshire,NH,2008,0.13,0
+New Hampshire,NH,2009,0.05,0
+New Hampshire,NH,2010,0.13,0
+New Hampshire,NH,2011,0.44,0
+New Hampshire,NH,2012,0.57,0
+New Hampshire,NH,2013,0.92,0
+New Hampshire,NH,2014,0.94,0
+New Hampshire,NH,2015,0.940634068,0
+New Jersey,NJ,2008,0.23,0
+New Jersey,NJ,2009,0.33,0
+New Jersey,NJ,2010,0.24,0
+New Jersey,NJ,2011,0.38,0
+New Jersey,NJ,2012,0.62,0
+New Jersey,NJ,2013,0.73,0
+New Jersey,NJ,2014,0.88,0
+New Jersey,NJ,2015,0.927400478,0
+New Mexico,NM,2008,0.32,0
+New Mexico,NM,2009,0.06,0
+New Mexico,NM,2010,0.27,0
+New Mexico,NM,2011,0.28,0
+New Mexico,NM,2012,0.53,0
+New Mexico,NM,2013,0.48,0
+New Mexico,NM,2014,0.73,0
+New Mexico,NM,2015,0.902591019,0
+Nevada,NV,2008,,1
+Nevada,NV,2009,0.28,0
+Nevada,NV,2010,0.33,0
+Nevada,NV,2011,0.36,0
+Nevada,NV,2012,0.44,0
+Nevada,NV,2013,0.89,0
+Nevada,NV,2014,0.8,0
+Nevada,NV,2015,1.0,0
+New York,NY,2008,0.14,0
+New York,NY,2009,0.18,0
+New York,NY,2010,0.21,0
+New York,NY,2011,0.33,0
+New York,NY,2012,0.6,0
+New York,NY,2013,0.8,0
+New York,NY,2014,0.88,0
+New York,NY,2015,0.926687001,0
+Ohio,OH,2008,0.07,0
+Ohio,OH,2009,0.14,0
+Ohio,OH,2010,0.25,0
+Ohio,OH,2011,0.34,0
+Ohio,OH,2012,0.63,0
+Ohio,OH,2013,0.74,0
+Ohio,OH,2014,0.84,0
+Ohio,OH,2015,0.882657445,0
+Oklahoma,OK,2008,0.18,0
+Oklahoma,OK,2009,0.07,0
+Oklahoma,OK,2010,0.08,0
+Oklahoma,OK,2011,0.14,0
+Oklahoma,OK,2012,0.45,0
+Oklahoma,OK,2013,0.55,0
+Oklahoma,OK,2014,0.71,0
+Oklahoma,OK,2015,0.873224647,0
+Oregon,OR,2008,0.2,0
+Oregon,OR,2009,0.03,0
+Oregon,OR,2010,0.07,0
+Oregon,OR,2011,0.5,0
+Oregon,OR,2012,0.55,0
+Oregon,OR,2013,0.59,0
+Oregon,OR,2014,0.84,0
+Oregon,OR,2015,0.871637857,0
+Pennsylvania,PA,2008,0.1,0
+Pennsylvania,PA,2009,0.17,0
+Pennsylvania,PA,2010,0.16,0
+Pennsylvania,PA,2011,0.37,0
+Pennsylvania,PA,2012,0.66,0
+Pennsylvania,PA,2013,0.68,0
+Pennsylvania,PA,2014,0.86,0
+Pennsylvania,PA,2015,0.908923945,0
+Rhode Island,RI,2008,0.49,0
+Rhode Island,RI,2009,0.13,0
+Rhode Island,RI,2010,0.45,0
+Rhode Island,RI,2011,0.55,0
+Rhode Island,RI,2012,0.69,0
+Rhode Island,RI,2013,0.61,0
+Rhode Island,RI,2014,1.0,0
+Rhode Island,RI,2015,0.847934425,0
+South Carolina,SC,2008,0.12,0
+South Carolina,SC,2009,0.16,0
+South Carolina,SC,2010,0.14,0
+South Carolina,SC,2011,0.43,0
+South Carolina,SC,2012,0.53,0
+South Carolina,SC,2013,0.86,0
+South Carolina,SC,2014,0.73,0
+South Carolina,SC,2015,0.752929779,0
+South Dakota,SD,2008,0.11,0
+South Dakota,SD,2009,0.05,0
+South Dakota,SD,2010,0.11,0
+South Dakota,SD,2011,0.17,0
+South Dakota,SD,2012,0.75,0
+South Dakota,SD,2013,0.82,0
+South Dakota,SD,2014,0.95,0
+South Dakota,SD,2015,0.803008276,0
+Tennessee,TN,2008,0.06,0
+Tennessee,TN,2009,0.06,0
+Tennessee,TN,2010,0.08,0
+Tennessee,TN,2011,0.35,0
+Tennessee,TN,2012,0.54,0
+Tennessee,TN,2013,0.78,0
+Tennessee,TN,2014,0.86,0
+Tennessee,TN,2015,0.881775849,0
+Texas,TX,2008,0.13,0
+Texas,TX,2009,0.12,0
+Texas,TX,2010,0.1,0
+Texas,TX,2011,0.27,0
+Texas,TX,2012,0.41,0
+Texas,TX,2013,0.69,0
+Texas,TX,2014,0.79,0
+Texas,TX,2015,0.840199235,0
+Utah,UT,2008,0.09,0
+Utah,UT,2009,0.12,0
+Utah,UT,2010,0.14,0
+Utah,UT,2011,0.09,0
+Utah,UT,2012,0.12,0
+Utah,UT,2013,0.32,0
+Utah,UT,2014,0.88,0
+Utah,UT,2015,0.931119475,0
+Virginia,VA,2008,0.23,0
+Virginia,VA,2009,0.26,0
+Virginia,VA,2010,0.29,0
+Virginia,VA,2011,0.62,0
+Virginia,VA,2012,0.77,0
+Virginia,VA,2013,0.67,0
+Virginia,VA,2014,0.98,0
+Virginia,VA,2015,0.945724681,0
+Vermont,VT,2008,0.15,0
+Vermont,VT,2009,0.18,0
+Vermont,VT,2010,0.16,0
+Vermont,VT,2011,0.59,0
+Vermont,VT,2012,1.0,0
+Vermont,VT,2013,0.83,0
+Vermont,VT,2014,1.0,0
+Vermont,VT,2015,0.65403236,0
+Washington,WA,2008,0.09,0
+Washington,WA,2009,0.24,0
+Washington,WA,2010,0.21,0
+Washington,WA,2011,0.41,0
+Washington,WA,2012,0.61,0
+Washington,WA,2013,0.73,0
+Washington,WA,2014,0.84,0
+Washington,WA,2015,0.958413504,0
+Wisconsin,WI,2008,0.2,0
+Wisconsin,WI,2009,0.2,0
+Wisconsin,WI,2010,0.3,0
+Wisconsin,WI,2011,0.5,0
+Wisconsin,WI,2012,0.7,0
+Wisconsin,WI,2013,0.83,0
+Wisconsin,WI,2014,0.88,0
+Wisconsin,WI,2015,0.877739608,0
+West Virginia,WV,2008,0.1,0
+West Virginia,WV,2009,0.05,0
+West Virginia,WV,2010,0.23,0
+West Virginia,WV,2011,0.36,0
+West Virginia,WV,2012,0.64,0
+West Virginia,WV,2013,0.58,0
+West Virginia,WV,2014,0.68,0
+West Virginia,WV,2015,0.826872532,0
+Wyoming,WY,2008,0.1,0
+Wyoming,WY,2009,0.12,0
+Wyoming,WY,2010,0.27,0
+Wyoming,WY,2011,0.21,0
+Wyoming,WY,2012,0.48,0
+Wyoming,WY,2013,0.87,0
+Wyoming,WY,2014,0.68,0
+Wyoming,WY,2015,0.935781187,0
